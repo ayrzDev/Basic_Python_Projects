@@ -1,0 +1,1 @@
+Buraya yazıyı yazın ve ardından python dosyasını çalıştırın ve size bu metni ses dosyasına çevirsin
